@@ -8,6 +8,9 @@ public class Test2 {
 		int y = 10;
 		System.out.println("Y value is: "+y);
 
+		int t2 = 10;
+		System.out.println("T value is: "+t2);
+
 	}
 
 }
